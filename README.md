@@ -1,2 +1,2 @@
 # gitplay
-A funny play repo
+A funny repo for MSE 
